@@ -11,6 +11,6 @@
         <div>
         </div>
     </form>
-    <h1>Git demo page version 1.0.</h1>
+    <h1>Git demo page version 2.0.</h1>
 </body>
 </html>
